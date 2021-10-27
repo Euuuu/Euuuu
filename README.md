@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omateusele
 - 👀 I’m interested in programming for olympics
-- 🌱 I’m currently learning Python and planning on learn C++
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ...(Nothing yet :c)
 - 📫 How to reach me: @elemateuso (Instagram) @omateusele (Telegram)
 
