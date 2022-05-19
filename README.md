@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @omateusele
-- 👀 I’m interested in programming for olympics
-- 🌱 I’m currently learning Python, C++, C
+- 👀 I’m interested in programming for olympics and web development
+- 🌱 I’m currently learning Front-End Technologies for web development
 - 📫 How to reach me: @elemateuso (Instagram) @omateusele (Telegram)
